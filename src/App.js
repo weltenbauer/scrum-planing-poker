@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Scrum Planning Poker Yeah!</h1>
+      <h1>weltenbauer. Planning Poker Yeah!</h1>
       <div className="card-container">
         <Card value="0" onClick={() => handleCardClick(0)} />
         <Card value="1" onClick={() => handleCardClick(1)} />
